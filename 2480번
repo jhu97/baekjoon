@@ -6,7 +6,7 @@ numbers.extend((a,b,c))
 numbers.sort()
 if a == b == c :
     print(10000+a*1000)
-elif numbers[0] == numbers[1] or numbers[1] == numbers[2] and numbers[1] != numbers[2]:
+elif numbers[0] != numbers[2] and (numbers[0] == numbers[1] or numbers[1] == numbers[2]):
     print(1000+100*numbers[1])
 else:
     print(max(numbers)*100)
