@@ -16,7 +16,6 @@ numbers = [int(i) for i in input().split()]
 dice = [0 for i in range(6)]
 for n in numbers:
     dice[n-1] += 1
-
 if max(dice) == 3:
     print(10000+1000*(dice.index(3)+1)) 
 elif max(dice) == 2:
