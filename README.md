@@ -12,3 +12,4 @@
 - [5063번-TGN](https://github.com/jhu97/baekjoon/blob/master/5063번) [[문제]](https://www.acmicpc.net/problem/5063)
 - [10102번-개표](https://github.com/jhu97/baekjoon/blob/master/10102번) [[문제]](https://www.acmicpc.net/problem/10102)
 - [10886번-0 = not cute / 1 = cute](https://github.com/jhu97/baekjoon/blob/master/10886%EB%B2%88) [[문제]](https://www.acmicpc.net/problem/10886)
+- [10988번-팰린드롬인지 확인하기](https://github.com/jhu97/baekjoon/blob/master/10988%EB%B2%88) [[문제]](https://www.acmicpc.net/problem/10988)
