@@ -15,3 +15,4 @@
 - [10988번-팰린드롬인지 확인하기](https://github.com/jhu97/baekjoon/blob/master/10988%EB%B2%88) [[문제]](https://www.acmicpc.net/problem/10988)
 - [10951번-A+B - 4](https://github.com/jhu97/baekjoon/blob/master/10951번) [[문제]](https://www.acmicpc.net/problem/10951)
 - [5086번-배수와 약수](https://github.com/jhu97/baekjoon/commit/f08acf8b3d030e5c3442984894c1c19a5497032f) [[문제]](https://www.acmicpc.net/problem/5086)
+- [5717번-상근이의 친구들](https://github.com/jhu97/baekjoon/blob/master/5717번) [[문제]](https://www.acmicpc.net/problem/5717)
