@@ -18,3 +18,4 @@
 - [5717번-상근이의 친구들](https://github.com/jhu97/baekjoon/blob/master/5717번) [[문제]](https://www.acmicpc.net/problem/5717)
 - [9610번-사분면](https://github.com/jhu97/baekjoon/blob/master/9610번) [[문제]](https://www.acmicpc.net/problem/9610)
 - [8958번-OX문제](https://github.com/jhu97/baekjoon/commit/c369a89b73f4cb978f3d0d53864622e221cbc16d) [[문제]](https://www.acmicpc.net/problem/8958)
+- [9506번-약수들의 합](https://github.com/jhu97/baekjoon/blob/master/9506번) [[문제]](https://www.acmicpc.net/problem/9506)
