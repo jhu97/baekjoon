@@ -19,3 +19,4 @@
 - [9610번-사분면](https://github.com/jhu97/baekjoon/blob/master/9610번) [[문제]](https://www.acmicpc.net/problem/9610)
 - [8958번-OX문제](https://github.com/jhu97/baekjoon/commit/c369a89b73f4cb978f3d0d53864622e221cbc16d) [[문제]](https://www.acmicpc.net/problem/8958)
 - [9506번-약수들의 합](https://github.com/jhu97/baekjoon/blob/master/9506번) [[문제]](https://www.acmicpc.net/problem/9506)
+- [10162번-전자레인지](https://github.com/jhu97/baekjoon/blob/master/10162번) [[문제]](https://www.acmicpc.net/problem/10162)
