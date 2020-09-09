@@ -15,3 +15,19 @@ for _ in range(n):
         pass
 print(Changyeong)
 print(Sangduk)
+
+-----------------------------------------------------------
+
+Changyeong = 100
+Sangduk = 100
+n = int(input())
+for _ in range(n):
+    c, s = map(int, input().split())
+    if c > s:
+        Sangduk -= c
+    elif c < s:
+        Changyeong -= s
+    else:
+        pass
+print(Changyeong)
+print(Sangduk)
