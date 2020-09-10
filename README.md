@@ -21,3 +21,4 @@
 - [9506번-약수들의 합](https://github.com/jhu97/baekjoon/blob/master/9506번) [[문제]](https://www.acmicpc.net/problem/9506)
 - [10162번-전자레인지](https://github.com/jhu97/baekjoon/blob/master/10162번) [[문제]](https://www.acmicpc.net/problem/10162)
 - [10103번-주사위 게임](https://github.com/jhu97/baekjoon/blob/master/10103번) [[문제]](https://www.acmicpc.net/problem/10103)
+- [10214번-baseball](https://github.com/jhu97/baekjoon/blob/master/10214번) [[문제]](https://www.acmicpc.net/problem/10214)
