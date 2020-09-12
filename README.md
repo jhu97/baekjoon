@@ -23,3 +23,4 @@
 - [10103번-주사위 게임](https://github.com/jhu97/baekjoon/blob/master/10103번) [[문제]](https://www.acmicpc.net/problem/10103)
 - [10214번-baseball](https://github.com/jhu97/baekjoon/blob/master/10214번) [[문제]](https://www.acmicpc.net/problem/10214)
 - [11557번-올해의 양조장](https://github.com/jhu97/baekjoon/commit/ceb124a1b26148098a3ba32baeef8d89acaf0969) [[문제]](https://www.acmicpc.net/problem/11557)
+- [10757번-큰 수 A+B](https://github.com/jhu97/baekjoon/commit/bf029aaef542e09e739518973b4fa2ca495b113e) [[문제]](https://www.acmicpc.net/problem/10757)
