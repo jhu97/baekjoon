@@ -27,3 +27,4 @@
 - [1977번-완전제곱수](https://github.com/jhu97/baekjoon/commit/ca7e2922fbbfe9180d67025c55e6b73b671f3c7d) [[문제]](https://www.acmicpc.net/problem/1977)
 - [11098번-첼시를 도와줘!](https://github.com/jhu97/baekjoon/blob/master/11098번) [[문제]](https://www.acmicpc.net/problem/11098)
 - [5635번-생일](https://github.com/jhu97/baekjoon/blob/master/5635번) [[문제]](https://www.acmicpc.net/problem/5635) 
+- [1408번-24](https://github.com/jhu97/baekjoon/blob/master/1408번) [[문제]](https://www.acmicpc.net/problem/1408)
