@@ -30,3 +30,4 @@
 - [1408번-24](https://github.com/jhu97/baekjoon/blob/master/1408번) [[문제]](https://www.acmicpc.net/problem/1408)
 - [2741번-N 찍기](https://github.com/jhu97/baekjoon/blob/master/2741번) [[문제]](https://www.acmicpc.net/problem/2741)
 - [2742번-기찍 N](https://github.com/jhu97/baekjoon/blob/master/4742번) [[문제]](https://www.acmicpc.net/problem/2742)
+- [2739번-구구단](https://github.com/jhu97/baekjoon/blob/master/2739번) [[문제]](https://www.acmicpc.net/problem/2739)
