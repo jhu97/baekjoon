@@ -33,3 +33,4 @@
 - [2739번-구구단](https://github.com/jhu97/baekjoon/blob/master/2739번) [[문제]](https://www.acmicpc.net/problem/2739)
 - [2438번-별 찍기1](https://github.com/jhu97/baekjoon/blob/master/2438번) [[문제]](https://www.acmicpc.net/problem/2438)
 - [4673번-셀프 넘버](https://github.com/jhu97/baekjoon/blob/master/4673번) [[문제]](https://www.acmicpc.net/problem/4673)
+- [2439번-별 찍기-2](https://github.com/jhu97/baekjoon/blob/master/2439번) [[문제]](https://www.acmicpc.net/problem/2439)
