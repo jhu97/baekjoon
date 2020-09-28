@@ -41,3 +41,4 @@
 - [2748번-피보나치 수 2](https://github.com/jhu97/baekjoon/blob/master/2748.py) [[문제]](https://www.acmicpc.net/problem/2748)
 - [5565번-영수증](https://github.com/jhu97/baekjoon/blob/master/5565.py) [[문제]](https://www.acmicpc.net/problem/5565)
 - [10950번-A+B-3](https://github.com/jhu97/baekjoon/blob/master/10950.py) [[문제]](https://www.acmicpc.net/problem/10950)
+- [10952번-A+B-5](https://github.com/jhu97/baekjoon/blob/master/10952.py) [[문제]](https://www.acmicpc.net/problem/10952)
