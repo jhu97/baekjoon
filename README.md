@@ -44,3 +44,4 @@
 - [10952번-A+B-5](https://github.com/jhu97/baekjoon/blob/master/10952.py) [[문제]](https://www.acmicpc.net/problem/10952)
 - [10984번-내 학점을 구해줘](https://github.com/jhu97/baekjoon/blob/master/10984.py) [[문제]](https://www.acmicpc.net/problem/10984)
 - [10833번-사과](https://github.com/jhu97/baekjoon/blob/master/10833.py) [[문제]](https://www.acmicpc.net/problem/10833)
+- [2442번-별 찍기-5](https://github.com/jhu97/baekjoon/blob/master/2442.py) [[문제]](https://www.acmicpc.net/problem/2442)
