@@ -10,3 +10,10 @@ for i in range(N - 1):
     numbers += codes[i] - 1
 numbers += codes[-1]
 print(numbers)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+numbers = 1
+for _ in range(N):
+    code = int(input())
+    numbers += code - 1
+print(numbers)
