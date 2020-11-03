@@ -52,3 +52,4 @@
 - [9325번-얼마?](https://github.com/jhu97/baekjoon/blob/master/9325.py) [[문제]](https://www.acmicpc.net/problem/9325)
 - [2445번-별 찍기-8](https://github.com/jhu97/baekjoon/blob/master/2445.py) [[문제]](https://www.acmicpc.net/problem/2445)
 - [2446번-별 찍기-9](https://github.com/jhu97/baekjoon/blob/master/2446.py) [[문제]](https://www.acmicpc.net/problem/2446)
+- [2010번-플러그](https://github.com/jhu97/baekjoon/blob/master/2010.py) [[문제]](https://www.acmicpc.net/problem/2010)
