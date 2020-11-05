@@ -56,3 +56,4 @@
 - [5522번-카드 게임](https://github.com/jhu97/baekjoon/blob/master/5522.py) [[문제]](https://www.acmicpc.net/problem/5522)
 - [10178번-할로윈의 사탕](https://github.com/jhu97/baekjoon/blob/master/10178.py) [[문제]](https://www.acmicpc.net/problem/10178)
 - [10871번-X보다 작은 수](https://github.com/jhu97/baekjoon/blob/master/10871.py) [[문제]](https://www.acmicpc.net/problem/10871)
+- [9295번-주사위](https://github.com/jhu97/baekjoon/blob/master/9295.py) [[문제]](https://www.acmicpc.net/problem/9295)
