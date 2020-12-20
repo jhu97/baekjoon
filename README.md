@@ -58,3 +58,4 @@
 - [10871번-X보다 작은 수](https://github.com/jhu97/baekjoon/blob/master/10871.py) [[문제]](https://www.acmicpc.net/problem/10871)
 - [9295번-주사위](https://github.com/jhu97/baekjoon/blob/master/9295.py) [[문제]](https://www.acmicpc.net/problem/9295)
 - [10569번-다면체](https://github.com/jhu97/baekjoon/blob/master/10569.py) [[문제]](https://www.acmicpc.net/problem/10569)
+- [10872번-팩토리얼](https://github.com/jhu97/baekjoon/blob/master/10872.py) [문제](https://www.acmicpc.net/problem/10872)
