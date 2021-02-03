@@ -62,3 +62,4 @@
 - [2108번-통계학](https://github.com/jhu97/baekjoon/blob/master/2108.py) [[문제]](https://www.acmicpc.net/problem/2108)
 - [2750번-수 정렬하기](https://github.com/jhu97/baekjoon/blob/master/2750.py) [[문제]](https://www.acmicpc.net/problem/2750)
 - [2751번-수 정렬하기 2](https://github.com/jhu97/baekjoon/blob/master/2751.py) [[문제]](https://www.acmicpc.net/problem/2751)
+- [10989번-수 정렬하기 3](https://github.com/jhu97/baekjoon/blob/master/10989.py) [[문제]](https://www.acmicpc.net/problem/10989)
