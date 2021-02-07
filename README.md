@@ -67,3 +67,4 @@
 - [4344번-평균은 넘겠지](https://github.com/jhu97/baekjoon/blob/master/4344.py) [[문제]](https://www.acmicpc.net/problem/4344)
 - [11022번-A+B-8](https://github.com/jhu97/baekjoon/blob/master/11022.py) [[문제]](https://www.acmicpc.net/problem/11022)
 - [1712번-손익분기점](https://github.com/jhu97/baekjoon/blob/master/1712.py) [[문제]](https://www.acmicpc.net/problem/1712)
+- [2292번-벌집](https://github.com/jhu97/baekjoon/blob/master/2292.py) [[문제]](https://www.acmicpc.net/problem/2292)
