@@ -74,3 +74,4 @@
 - [15596번-정수 N의 합](https://github.com/jhu97/baekjoon/blob/master/15596.py) [[문제]](https://www.acmicpc.net/problem/15596)
 - [1065번-한수](https://github.com/jhu97/baekjoon/blob/master/1065.py) [[문제]](https://www.acmicpc.net/problem/1065)
 - [1546번-평균](https://github.com/jhu97/baekjoon/blob/master/1546.py) [[문제]](https://www.acmicpc.net/problem/1546)
+- [2869번-달팽이는 올라가고 싶다](https://github.com/jhu97/baekjoon/blob/master/2869.py) [[문제]](https://www.acmicpc.net/problem/2869)
