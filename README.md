@@ -78,3 +78,4 @@
 - [10250번-ACM호텔](https://github.com/jhu97/baekjoon/blob/master/10250.py) [[문제]](https://www.acmicpc.net/problem/10250)
 - [2775번-부녀회장이 될테야](https://github.com/jhu97/baekjoon/blob/master/2775.py) [[문제]](https://www.acmicpc.net/problem/2775)
 - [2839번-설탕 배달](https://github.com/jhu97/baekjoon/blob/master/2839.py) [[문제]](https://www.acmicpc.net/problem/2839)
+- [1011번-Fly me to the Alpha Centauri](https://github.com/jhu97/baekjoon/blob/master/1011.py) [[문제]](https://www.acmicpc.net/problem/1011)
