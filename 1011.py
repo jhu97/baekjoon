@@ -14,5 +14,4 @@ for _ in range(T):
             count = 2 * k
         if count != 0:
             break
-
     print(count)
