@@ -80,3 +80,4 @@
 - [2839번-설탕 배달](https://github.com/jhu97/baekjoon/blob/master/2839.py) [[문제]](https://www.acmicpc.net/problem/2839)
 - [1011번-Fly me to the Alpha Centauri](https://github.com/jhu97/baekjoon/blob/master/1011.py) [[문제]](https://www.acmicpc.net/problem/1011)
 - [1978번-소수 찾기](https://github.com/jhu97/baekjoon/blob/master/1978.py) [[문제]](https://www.acmicpc.net/problem/1978)
+- [2581번-소수](https://github.com/jhu97/baekjoon/blob/master/2581.py) [[문제]](https://www.acmicpc.net/problem/2581)
