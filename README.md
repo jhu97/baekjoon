@@ -82,3 +82,4 @@
 - [1978번-소수 찾기](https://github.com/jhu97/baekjoon/blob/master/1978.py) [[문제]](https://www.acmicpc.net/problem/1978)
 - [2581번-소수](https://github.com/jhu97/baekjoon/blob/master/2581.py) [[문제]](https://www.acmicpc.net/problem/2581)
 - [2562번-최댓값](https://github.com/jhu97/baekjoon/blob/master/2562.py) [[문제]](https://www.acmicpc.net/problem/2562)
+- [1157번-단어 공부](https://github.com/jhu97/baekjoon/blob/master/1157.py) [[문제]](https://www.acmicpc.net/problem/1157)
