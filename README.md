@@ -84,3 +84,4 @@
 - [2562번-최댓값](https://github.com/jhu97/baekjoon/blob/master/2562.py) [[문제]](https://www.acmicpc.net/problem/2562)
 - [1157번-단어 공부](https://github.com/jhu97/baekjoon/blob/master/1157.py) [[문제]](https://www.acmicpc.net/problem/1157)
 - [10870번-피보나치 수 5](https://github.com/jhu97/baekjoon/blob/master/10870.py) [[문제]](https://www.acmicpc.net/problem/10870)
+- [2941번-크로아티아 알파벳](https://github.com/jhu97/baekjoon/blob/master/2941.py) [[문제]](https://www.acmicpc.net/problem/2941)
