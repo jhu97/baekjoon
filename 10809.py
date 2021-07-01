@@ -12,3 +12,5 @@ for s in S:
     order[a] = S.index(s)
 
 print(*order, sep = ' ')
+
+# find method : 못 찾으면 -1을 return, 찾으면 인덱스를 return
