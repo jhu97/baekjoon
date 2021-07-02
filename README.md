@@ -87,3 +87,4 @@
 - [2941번-크로아티아 알파벳](https://github.com/jhu97/baekjoon/blob/master/2941.py) [[문제]](https://www.acmicpc.net/problem/2941)
 - [4948번-베르트랑 공준](https://github.com/jhu97/baekjoon/blob/master/4948_2.py) [[문제]](https://www.acmicpc.net/problem/4948)
 - [10809번-알파벳 찾기](https://github.com/jhu97/baekjoon/blob/master/10809.py) [[문제]](https://www.acmicpc.net/problem/10809)
+- [2675번-문자열 반복](https://github.com/jhu97/baekjoon/blob/master/2675.py) [[문제]](https://www.acmicpc.net/problem/2675)
