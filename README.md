@@ -89,3 +89,4 @@
 - [10809번-알파벳 찾기](https://github.com/jhu97/baekjoon/blob/master/10809.py) [[문제]](https://www.acmicpc.net/problem/10809)
 - [2675번-문자열 반복](https://github.com/jhu97/baekjoon/blob/master/2675.py) [[문제]](https://www.acmicpc.net/problem/2675)
 - [2908번-상수](https://github.com/jhu97/baekjoon/blob/master/2908.py) [[문제]](https://www.acmicpc.net/problem/2908)
+- [5622번-다이얼](https://github.com/jhu97/baekjoon/blob/master/5622.py) [[문제]](https://www.acmicpc.net/problem/5622)
