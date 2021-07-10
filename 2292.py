@@ -14,3 +14,14 @@ else:
             break
         else:
             n += 1
+'''
+import sys
+import math
+input = sys.stdin.readline
+
+N = int(input())
+if N == 1:
+    print(1)
+else:
+    print(int((3 + math.sqrt(12 * N -15)) // 6 + 1))
+'''
