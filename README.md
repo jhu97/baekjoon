@@ -91,3 +91,4 @@
 - [2908번-상수](https://github.com/jhu97/baekjoon/blob/master/2908.py) [[문제]](https://www.acmicpc.net/problem/2908)
 - [5622번-다이얼](https://github.com/jhu97/baekjoon/blob/master/5622.py) [[문제]](https://www.acmicpc.net/problem/5622)
 - [1316번-그룹 단어 체커](https://github.com/jhu97/baekjoon/blob/master/1316.py) [[문제]](https://www.acmicpc.net/problem/1316)
+- [2577번-숫자의 개수](https://github.com/jhu97/baekjoon/blob/master/2577.py) [[문제]](https://www.acmicpc.net/problem/2577)
